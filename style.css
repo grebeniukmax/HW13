@@ -1,0 +1,81 @@
+.to {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.container {
+container: 1100;
+}
+.h {
+    text-align: center;
+}
+.rrr {
+text-align: center;
+display: flex;
+margin: 0 auto;
+}
+.first {
+    font-size: small;
+    margin-top: 10px;
+    margin-bottom: 6px;
+    display: flex;
+}
+.yes {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.pictures {
+    width: 1000px;
+    height: 1000px;
+    display: flex;
+
+}
+.p {
+    display: flex;
+    }
+.h3 {
+    display: flex;
+    }
+.ourteam {
+    text-align: center;
+    margin-top: 10px;
+
+}
+.footer {
+    margin-top: 60px;
+}
+.picturess1 {
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
+.picturess2 {
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
+.picturess3 {
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
+.picturess4 {
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
+.true {
+display: flex;
+}
+.ul {
+    display: flex;
+}
+.block {
+ display: flex;
+}
+.a {
+    display: flex;
+}
+.b {
+    display: flex;
+}
